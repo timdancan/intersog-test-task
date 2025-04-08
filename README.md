@@ -39,6 +39,9 @@ npm (v9+ recommended)
 ## Installation
 
 1.Clone the repository: https://github.com/timdancan/intersog-test-task.git
+
 2.Install dependencies: npm install
+
 3.Start the development server: npm run dev
+
 4.Start tests: npm run test
